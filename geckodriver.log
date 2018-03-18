@@ -578,3 +578,611 @@ Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
 1521193373141	geckodriver::marionette	ERROR	Failed to stop browser process
+1521377265720	geckodriver	INFO	geckodriver 0.20.0
+1521377265733	geckodriver	INFO	Listening on 127.0.0.1:8014
+1521377268795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.gGUi4NhURQbx"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521377269742	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521377271266	Marionette	INFO	Listening on port 8022
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521377271932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+[Child 2688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2688, Chrome_ChildThrea[Parent 8364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521377291036	geckodriver::marionette	ERROR	Failed to stop browser process
+1521379676452	geckodriver	INFO	geckodriver 0.20.0
+1521379676465	geckodriver	INFO	Listening on 127.0.0.1:9079
+1521379679518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.pMXim9Lc2nt4"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521379680458	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521379682036	Marionette	INFO	Listening on port 9088
+1521379682656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+[Parent 12384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18280, Chrome_[Child 6976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6976, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521379735183	geckodriver	INFO	geckodriver 0.20.0
+1521379735196	geckodriver	INFO	Listening on 127.0.0.1:9208
+1521379738304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.wvADZm49ogQB"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521379739088	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521379740918	Marionette	INFO	Listening on port 9216
+1521379741440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+[Child 6632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6632, Chrome_[Child 2656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521379755078	geckodriver::marionette	ERROR	Failed to stop browser process
+1521380268676	geckodriver	INFO	geckodriver 0.20.0
+1521380268687	geckodriver	INFO	Listening on 127.0.0.1:9384
+1521380271749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.DvwttLzMxMyk"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380272434	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380273920	Marionette	INFO	Listening on port 9392
+1521380274880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+[Parent 14936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4392, Chrome_ChildThread] WARNIN*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521380281261	geckodriver::marionette	ERROR	Failed to stop browser process
+1521380329500	geckodriver	INFO	geckodriver 0.20.0
+1521380329512	geckodriver	INFO	Listening on 127.0.0.1:9487
+1521380332569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.Atco215vNAX3"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380333274	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380334648	Marionette	INFO	Listening on port 9495
+1521380335708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+[Parent 16828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16872, Chrome[Child 13476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13476, Chrome_C[Parent 16828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4240, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521380346425	geckodriver::marionette	ERROR	Failed to stop browser process
+1521380685428	geckodriver	INFO	geckodriver 0.20.0
+1521380685439	geckodriver	INFO	Listening on 127.0.0.1:9635
+1521380688478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.Yhuw9Ov5Vblp"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380689166	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380690552	Marionette	INFO	Listening on port 9643
+1521380691616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+[Parent 15120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16996, Chrome_ChildThread] W[Parent 15120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16192, Chrome_ChildThread] W*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521380748591	geckodriver	INFO	geckodriver 0.20.0
+1521380748603	geckodriver	INFO	Listening on 127.0.0.1:9748
+1521380751659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.uYW13d1exPGL"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380752344	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380753714	Marionette	INFO	Listening on port 9756
+1521380754792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+[Parent 13112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4756, Chrome_ChildThread][Parent 13112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521380769370	geckodriver::marionette	ERROR	Failed to stop browser process
+1521380906571	geckodriver	INFO	geckodriver 0.20.0
+1521380906585	geckodriver	INFO	Listening on 127.0.0.1:9880
+1521380909652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.PQDginKwsTXz"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380910348	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521380911768	Marionette	INFO	Listening on port 9888
+1521380912786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+[Parent 972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Child 17012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17012, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521380918484	geckodriver::marionette	ERROR	Failed to stop browser process
+1521382174962	geckodriver	INFO	geckodriver 0.20.0
+1521382174974	geckodriver	INFO	Listening on 127.0.0.1:10422
+1521382178055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.abQQ4a2VPABT"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382178950	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382180432	Marionette	INFO	Listening on port 10430
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382181188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 5292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/[Parent 5292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2656, Chrom[GPU 6448, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521382293996	geckodriver	INFO	geckodriver 0.20.0
+1521382294007	geckodriver	INFO	Listening on 127.0.0.1:10563
+1521382297061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.IXsXC35jeZVb"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382297908	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382299244	Marionette	INFO	Listening on port 10571
+1521382300176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 9516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7844, Chrome_ChildThread] WARNING: [Parent 9516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4240, Chrome_ChildThread] WARNING: pipe e*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521382330345	geckodriver	INFO	geckodriver 0.20.0
+1521382330356	geckodriver	INFO	Listening on 127.0.0.1:10656
+1521382333443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.DhZqdCuP7CKK"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382334320	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382335712	Marionette	INFO	Listening on port 10664
+1521382336564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript error: chrome://global/content/browser-child.js, line 408: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDocShell.doCommand]
+[Child 7924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 229[2C,h iChrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Child 14668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14668, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+envr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382437866	Marionette	INFO	Listening on port 10815
+1521382438624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 13900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15184, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521382804004	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382805322	Marionette	INFO	Listening on port 11294
+1521382806384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 5632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8184, Chrome_ChildThread] WARNING: pipe error: 109:[Parent 5632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4668, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521382882016	geckodriver	INFO	geckodriver 0.20.0
+1521382882028	geckodriver	INFO	Listening on 127.0.0.1:11505
+1521382885082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.AHwmBPGvFkXJ"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382885832	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521382887368	Marionette	INFO	Listening on port 11513
+1521382888194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 1848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3604, Chrome_Chil[Child 16968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16968, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521383040746	geckodriver	INFO	geckodriver 0.20.0
+1521383040759	geckodriver	INFO	Listening on 127.0.0.1:11703
+1521383043820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.WMCvvi5zjghy"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383044538	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383045974	Marionette	INFO	Listening on port 11712
+1521383046934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 11108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16100, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+h
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383271922	Marionette	INFO	Listening on port 1063
+1521383271974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+1521383275658	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 466: TypeError: reply[0] is undefined
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5292, Chrome_Ch[Child 8084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8084, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ta\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383308212	Marionette	INFO	Listening on port 1186
+1521383309264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 15784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11760, Chrome_ChildThr[Child 3384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3384, Chrome_Ch[Parent 15784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 16064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11936, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521383604091	geckodriver	INFO	geckodriver 0.20.0
+1521383604102	geckodriver	INFO	Listening on 127.0.0.1:1178
+1521383607167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.aFVuNVzpkuRf"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383608110	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383609402	Marionette	INFO	Listening on port 1207
+1521383610278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+1521383613702	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 466: TypeError: reply[0] is undefined
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 16248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16424, Chrome_ChildThread] WARNING: pipe error: 10[Child 4352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4352, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521383645793	geckodriver	INFO	geckodriver 0.20.0
+1521383645808	geckodriver	INFO	Listening on 127.0.0.1:1325
+1521383648861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.nPorbx2zdpX2"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383649706	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383651224	Marionette	INFO	Listening on port 1333
+1521383651976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 17684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16192, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383752772	Marionette	INFO	Listening on port 1511
+1521383752860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 2500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16740, Chrome_ChildThread] WARNING: pipe[Child 11552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11552, Chrome_C[Parent 2500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521383800317	geckodriver	INFO	geckodriver 0.20.0
+1521383800331	geckodriver	INFO	Listening on 127.0.0.1:1711
+1521383803364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.tnDM4oRCrzqt"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383804030	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383805516	Marionette	INFO	Listening on port 1721
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383806116	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279
+[Parent 17464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9516, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521383811771	geckodriver	INFO	geckodriver 0.20.0
+1521383811783	geckodriver	INFO	Listening on 127.0.0.1:1739
+1521383814857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.IOhgWoKfFHCa"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383815512	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383816826	Marionette	INFO	Listening on port 1747
+1521383816870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Child 15776, Chrome_ChildThread] W[APRaNrIeNnGt:  1p3i8p6e0 ,e rGror: 109: file z:/build/build/src/eicko_IOTphread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrocm/ec/hcroommmioum/src/chrome/common/ipc_channel_win.cc, line 346
+n/ipc_channel_win.cc, line 346
+[Child 17660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17660, Chrome_C[Parent 13860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15880, Chrome_ChildThread] WARN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521383890935	geckodriver	INFO	geckodriver 0.20.0
+1521383890948	geckodriver	INFO	Listening on 127.0.0.1:1864
+1521383894022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.9HqckRc88MEb"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383894680	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521383895980	Marionette	INFO	Listening on port 1872
+1521383896062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://yunkelearning.yunke.com
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+[Parent 17548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16064, Chrome_ChildThr[Parent 17548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15904, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521385709626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 16132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9188, Chrome[Child 14428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14428, Chrome_C[Parent 16132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13840, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521385735148	geckodriver	INFO	geckodriver 0.20.0
+1521385735162	geckodriver	INFO	Listening on 127.0.0.1:19971
+1521385738193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.uqHfra6qCp3p"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521385738866	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521385740224	Marionette	INFO	Listening on port 19985
+1521385741308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+[Parent 6976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4992, Chrome_Chi[Child 6452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome[Parent 6976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521385754923	geckodriver	INFO	geckodriver 0.20.0
+1521385754937	geckodriver	INFO	Listening on 127.0.0.1:20075
+1521385758014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\16033\\AppData\\Local\\Temp\\rust_mozprofile.m3oV8XzVrsUA"
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521385758708	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\16033\AppData\Local\openvr\openvrpaths.vrpath
+1521385760038	Marionette	INFO	Listening on port 20083
+1521385761130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/jquery/jquery.so.js?ver=562, line 21: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript warning: https://cdn-assets-ssl.gn100.com/assets_v2/js/common/common.js?ver=562, line 289: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+[Parent 5212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
