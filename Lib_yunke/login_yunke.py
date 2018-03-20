@@ -13,5 +13,5 @@ class Login():
         above = driver.find_element_by_xpath('//*[@id="chick-down-show"]')
         ActionChains(driver).move_to_element(above).perform()
         driver.find_element_by_xpath('//*[@id="sub-menu"]/div/a[5]').click()
-        time.sleep(2)
+        time.sleep(5)
         driver.quit()

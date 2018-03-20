@@ -5,7 +5,7 @@ class MyTest(unittest.TestCase):
     '''云课登录测试'''
     def setUp(self):
         self.driver = webdriver.Firefox()
-        self.driver.implicitly_wait(30)
+        self.driver.implicitly_wait(10)
     def test_login(self):
         '''调用login_yunke'''
         driver = self.driver
