@@ -1,0 +1,4 @@
+EEEE<_io.TextIOWrapper name='<stderr>' mode='w' encoding='cp936'> 
+Time Elapsed: 0:00:23.799272
+D:\data\test_yunke\2018-03-20 11_10_33ÔÆ¿ÎµÇÂ¼²âÊÔ±¨¸æ.html
+email has been send out!
