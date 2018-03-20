@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "runtest.py", line 10, in <module>
+    runner.run(discover)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\HTMLTestRunner.py", line 628, in run
+    test(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 84, in __call__
+    return self.run(*args, **kwds)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 122, in run
+    test(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 84, in __call__
+    return self.run(*args, **kwds)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 122, in run
+    test(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 84, in __call__
+    return self.run(*args, **kwds)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 122, in run
+    test(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\unittest\case.py", line 653, in __call__
+    return self.run(*args, **kwds)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "C:\Users\Administrator\Desktop\test_yunke\test_yunke_buildcourse.py", line 58, in test_buildcourse
+    time.sleep(600)
+KeyboardInterrupt

@@ -1,0 +1,2 @@
+..<_io.TextIOWrapper name='<stderr>' mode='w' encoding='cp936'> 
+Time Elapsed: 0:11:00.337458
