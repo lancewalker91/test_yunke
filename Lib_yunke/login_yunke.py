@@ -1,3 +1,4 @@
+#-*- coding:utf-8 -*-
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 class Login():
@@ -12,7 +13,7 @@ class Login():
         time.sleep(1)
         above = driver.find_element_by_xpath('//*[@id="chick-down-show"]')
         ActionChains(driver).move_to_element(above).perform()
-        time.sleep(1)
+        time.sleep(2)
         driver.find_element_by_xpath('//*[@id="sub-menu"]/div/a[5]').click()
         time.sleep(5)
         driver.quit()

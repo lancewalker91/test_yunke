@@ -44,6 +44,7 @@ class MyTest(unittest.TestCase):
         driver.find_element_by_xpath('//*[@id="saveImg"]').click()
         driver.find_element_by_xpath('/html/body/section[1]/div/div/section/ul/li[5]/button').click()
         driver.find_element_by_xpath('//*[@id="save-btn"]').click()
+        time.sleep(3)
         driver.find_element_by_xpath('//*[@id="add-single-class"]').click()
         time.sleep(1)
         driver.find_element_by_xpath('/html/body/div[2]/div[2]/section/div/div[1]/input').send_keys('测试')
