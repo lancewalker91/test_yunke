@@ -39,6 +39,7 @@ class MyTest(unittest.TestCase):
         driver.find_element_by_xpath('//*[@id="img_p_label"]').click()
         time.sleep(1)
         driver.find_element_by_xpath('//*[@id="uploadImg"]').click()
+        time.sleep(1)
         os.system(r'C:\Users\Administrator\Desktop\test_yunke\uploadimg.exe')
         time.sleep(3)
         driver.find_element_by_xpath('//*[@id="saveImg"]').click()
@@ -51,6 +52,7 @@ class MyTest(unittest.TestCase):
         driver.find_element_by_css_selector('#start-one-time').click()
         time.sleep(0.5)
         driver.execute_script("$('.xdsoft_datetimepicker:visible .xdsoft_time.xdsoft_current').click()")
+        time.sleep(0.5)
         driver.find_element_by_css_selector('#end-one-time').click()
         time.sleep(0.5)
         driver.execute_script("$('.xdsoft_datetimepicker:visible .xdsoft_time.xdsoft_current').click()")
@@ -74,6 +76,7 @@ class MyTest(unittest.TestCase):
         driver.find_element_by_xpath('//*[@id="layui-layer1"]/div[3]/a[1]').click()
         driver.get('https://www.yunke.com')
         Login().user_logout(driver)
+        pass
 if __name__ == '__main__':
     unittest.main()
 
