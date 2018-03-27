@@ -1,6 +1,6 @@
 #-*- coding:utf-8 -*-
 from selenium import webdriver
-from Lib_yunke.login_yunke import Login
+from Lib_yunke import *
 import unittest
 class MyTest(unittest.TestCase):
     '''云课登录测试'''
