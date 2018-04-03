@@ -1,0 +1,8 @@
+.........................................test class start
+test class end
+test class start
+test class end
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='cp936'> 
+Time Elapsed: 0:00:12.101845
+C:\Users\Administrator\Desktop\2018-03-31 21_08_20ÔÆ¿ÎÖúÊÖ½Ó¿Ú²âÊÔ.html
+email has been send out!

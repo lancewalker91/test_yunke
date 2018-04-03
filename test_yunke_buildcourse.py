@@ -40,7 +40,7 @@ class MyTest(unittest.TestCase):
         time.sleep(1)
         driver.find_element_by_xpath('//*[@id="uploadImg"]').click()
         time.sleep(1)
-        os.system(r'C:\Users\Administrator\Desktop\test_yunke\uploadimg.exe')
+        os.system(r'C:\apache-tomcat-9.0.5\webapps\Jenkins\workspace\test_UI_yunke_online\test_yunke_UI_selenium\upfile.exe')
         time.sleep(3)
         driver.find_element_by_xpath('//*[@id="saveImg"]').click()
         driver.find_element_by_xpath('/html/body/section[1]/div/div/section/ul/li[5]/button').click()
