@@ -1,1 +1,2 @@
-# test_yunke
+## 云课登录和建课流程UI自动化测试
+> 首先要将浏览器驱动放在环境变量中geckodriver.exe（Firefox），upfile.exe是上传图片的插件，设置完成好之后，运行runtest.py，里面修改代码设置发送邮件列表和生成测试报告的位置等，完成之后会自动生成HTML测试报告并发送至邮箱！
